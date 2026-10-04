@@ -1,5 +1,5 @@
 # KeyAppStarter
-A program for launching multiple different scenarios that start a batch of programs/web-url
+CLI program for launching multiple different scenarios that start a batch of programs/web-urls
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![License](https://img.shields.io/badge/.NET-10-purple)](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)

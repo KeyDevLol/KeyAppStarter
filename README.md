@@ -30,5 +30,5 @@ _On Linux, a .sh file will be created instead of a shortcut_
 ```
 dotnet publish . -c Release
 ```
-Requirements
+Build requirements
 - [.NET 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
